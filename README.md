@@ -1,11 +1,8 @@
 # Paper
 
-Domain Aware Multi-Task Pretraining of 3D Swin Transformer for Brain MRI [Jonghun Kim  <sup>1,2</sup>], [Mansu Kim<sup>3</sup>], [Hyunjin Park<sup>1,2</sup>] <br>
-<sup>1</sup>Department of Electrical and Computer Engineering, Sungkyunkwan University <br>
-<sup>2</sup>Center for Neuroscience Imaging Research, Institute for Basic Science <br>
-<sup>3</sup>Gwanju Institute of Science and Technology
+Domain Aware Multi-Task Pretraining of 3D Swin Transformer for Brain MRI [Jonghun Kim], [Mansu Kim], [Hyunjin Park] 
 
-
+[![arXiv](https://img.shields.io/badge/ACCV2024-2124.2144-222A6C.svg?style=plastic)](https://openaccess.thecvf.com/content/ACCV2024/html/Kim_Domain_Aware_Multi-Task_Pre-Training_of_3D_Swin_Transformer_for_Brain_ACCV_2024_paper.html) [![arXiv](https://img.shields.io/badge/arXiv-2410.00410-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2410.00410)
 
 # Overview
 
@@ -22,4 +19,19 @@ The seven task is detailed in the figure below: <br>
 
 
 ![fig1](./asset/fig2.jpg)
+
+
+
+## Citation
+
+```tex
+@InProceedings{Kim_2024_ACCV,
+    author    = {Kim, Jonghun and Kim, Mansu and Park, Hyunjin},
+    title     = {Domain Aware Multi-Task Pre-Training of 3D Swin Transformer for Brain MRI},
+    booktitle = {Proceedings of the Asian Conference on Computer Vision (ACCV)},
+    month     = {December},
+    year      = {2024},
+    pages     = {2124-2144}
+}
+```
 
