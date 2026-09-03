@@ -22,6 +22,12 @@ The seven task is detailed in the figure below: <br>
 
 
 
+## Pretrained Model
+
+DAMT: [Google Drive](https://drive.google.com/file/d/1YKjcpU387lAtcfmB7ewc073AMVyiyssS/view?usp=sharing)
+
+
+
 ## Citation
 
 ```tex
